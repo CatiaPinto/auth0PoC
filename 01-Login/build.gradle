@@ -24,4 +24,7 @@ dependencies {
     compile 'com.auth0:mvc-auth-commons:1.+'
     compile 'javax.servlet:javax.servlet-api:3.1.0'
     runtime 'javax.servlet:jstl:1.2'
+    compile 'commons-httpclient:commons-httpclient:3.1'
+    compile 'org.apache.httpcomponents:httpclient:4.3.4'
+    compile 'com.googlecode.json-simple:json-simple:1.1'
 }
